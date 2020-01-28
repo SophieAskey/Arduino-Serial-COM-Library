@@ -1,3 +1,9 @@
+// Written by: Jakub Krzeptowski-Mucha
+//
+// The driver is an example of how a program would use the Serial_COM library. The user
+// must implement the instructionInterpreter method from the Serial_COM class. It is 
+// recommended to implement the interpreter in the driver as it will have access to 
+// public object methods.
 
 
 #include "Serial_COM.h"
